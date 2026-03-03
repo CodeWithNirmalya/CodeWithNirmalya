@@ -2,7 +2,7 @@
 
 # Hey, I'm Nirmalya Raja 👋
 
-### 🤖 ML Engineer in Progress | Python Backend Enthusiast | BCA '27
+### 🤖 ML Engineer in Progress | Python Backend Enthusiast |
 
 <p>
 I'm a Computer Applications student who loves turning messy, real-world data into something meaningful.<br>
