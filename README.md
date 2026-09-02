@@ -1,91 +1,185 @@
 <div align="center">
 
-# Nirmalya Raja
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Nirmalya%20Raja&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Applied%20AI&descAlignY=58&descSize=20" />
 
-### Data Scientist — Machine Learning · Data Analysis · Applied AI
+<br>
 
-Turning messy, real-world data into models and products that actually work.
+<a href="https://linkedin.com/in/nirmalya-raja"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:work.nirmalyaraja@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/CodeWithNirmalya"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmalya-raja)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.nirmalyaraja@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](#)
+<br><br>
+
+<a href="#">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2C9EE8&center=true&vCenter=true&width=600&lines=Turning+messy+data+into+working+models;Building+ML+pipelines+that+ship;97.8%25+accuracy+wildfire+detection+%F0%9F%94%A5;85%25%2B+accuracy+disease+prediction+%F0%9F%8F%A5" />
+</a>
 
 </div>
 
 <br>
 
-## About
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=2C9EE8&section=header" width="100%"/>
 
-I build machine learning systems end-to-end — from cleaning messy datasets to shipping deployable models. My work spans satellite-imagery classification, medical prediction systems, and applied data analysis, with a focus on model performance and real production usability, not just notebooks.
+## 🧬 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a Data Scientist who works across the full ML lifecycle — from wrangling messy, real-world datasets to deploying models people actually use. My focus areas are **satellite/geospatial classification**, **medical prediction systems**, and **applied statistical analysis**.
+
+I care more about a model that ships and holds up than one that just scores well in a notebook.
+
+- 🔭 Currently building end-to-end ML pipelines on real-world datasets
+- 🌱 Deepening skills in **FastAPI**, **LangChain / RAG**, and GenAI app development
+- 🎯 Open to Data Science & ML Engineering roles
+
+</td>
+<td width="40%" valign="top">
+
+```python
+class NirmalyaRaja:
+    def __init__(self):
+        self.role = "Data Scientist"
+        self.stack = [
+            "Python", "Scikit-learn",
+            "Pandas", "SQL"
+        ]
+        self.focus = [
+            "ML Pipelines",
+            "Feature Engineering",
+            "Model Deployment"
+        ]
+
+    def solve(self, messy_data):
+        return "working model 🚀"
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Highlights
+## ⚡ Highlights
 
-| | |
-|---|---|
-| 🔥 | Built a wildfire detection model at **97.8% accuracy** on 500K+ satellite records |
-| 🏥 | Shipped a multi-disease prediction app at **85%+ accuracy** across 3 conditions |
-| 📈 | Improved model precision by **12%** and recall by **15%** via feature engineering + SMOTE |
-| 🧪 | Benchmarked 5+ ML algorithms with full cross-validation and metrics evaluation |
+<div align="center">
+
+| 🔥 Wildfire Detection | 🏥 Disease Prediction | 📈 Model Tuning | 🧪 Benchmarking |
+|:---:|:---:|:---:|:---:|
+| **97.8%** accuracy on 500K+ satellite records | **85%+** accuracy across 3 conditions | **+12%** precision, **+15%** recall via SMOTE | 5+ algorithms cross-validated |
+
+</div>
 
 <br>
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+
+<br><br>
 
 **Data Science & ML**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+<br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br><br>
 
 **Web & Deployment**
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,fastapi" />
+<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+<br><br>
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=flat-square&logo=visual-studio-code&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda" />
+
+</div>
 
 <br>
 
-## Featured Work
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=2C9EE8&section=header" width="100%"/>
 
-**[Wildfire Detection System](https://github.com/CodeWithNirmalya)**
-Random Forest classifier for forest-fire detection using 3 years of MODIS satellite data across India. Full pipeline: EDA revealing spatial/temporal fire patterns, IQR-based outlier removal, 15+ engineered features, SMOTE for an 85:15 class imbalance. Benchmarked against Logistic Regression, SVM, and KNN — **97.8% accuracy**.
-`Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn`
+## 🚀 Featured Work
 
-**[Multi-Disease Prediction Web App](https://github.com/CodeWithNirmalya)**
-End-to-end ML web app predicting Diabetes, Parkinson's, and Heart Disease. Cleaned and standardized three separate medical datasets, handled class imbalance via class weighting, and deployed with pickled model serialization for fast, real-time inference.
-`Python` `Streamlit` `Scikit-learn` `NumPy` `Pandas`
+<br>
 
-**[Dynamic Travel Website](https://github.com/CodeWithNirmalya)**
-Fully responsive travel site with dynamic navigation, search, and destination pages — vanilla JS DOM manipulation, CSS animations, mobile-first layout.
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Wildfire Detection System
+**Random Forest · 97.8% Accuracy**
+
+Full ML pipeline on 3 years of MODIS satellite data across India. EDA revealing spatial/temporal fire patterns, IQR-based outlier handling, 15+ engineered features, SMOTE for an 85:15 class imbalance. Benchmarked against Logistic Regression, SVM, and KNN.
+
+`Python` `Scikit-learn` `Pandas` `Seaborn`
+
+[**View Repo →**](https://github.com/CodeWithNirmalya)
+
+</td>
+<td width="50%">
+
+### 🏥 Multi-Disease Prediction App
+**Streamlit · 85%+ Accuracy**
+
+End-to-end web app predicting Diabetes, Parkinson's, and Heart Disease. Cleaned three separate medical datasets, handled class imbalance via class weighting, deployed with pickled model serialization for real-time inference.
+
+`Python` `Streamlit` `Scikit-learn` `NumPy`
+
+[**View Repo →**](https://github.com/CodeWithNirmalya)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✈️ Dynamic Travel Website
+**Vanilla JS · Fully Responsive**
+
+Dynamic navigation, search, and destination pages with DOM manipulation, CSS animations, and mobile-first layout.
+
 `JavaScript` `HTML5` `CSS3`
 
-**[terminal-bank](https://github.com/CodeWithNirmalya)**
-CLI-based ATM simulation built to demonstrate core OOP design, file handling, and error handling in Python.
+[**View Repo →**](https://github.com/CodeWithNirmalya)
+
+</td>
+<td width="50%">
+
+### 🏧 terminal-bank
+**Python · CLI Simulation**
+
+ATM simulation built to demonstrate core OOP design, file handling, and robust error handling.
+
 `Python` `OOP`
+
+[**View Repo →**](https://github.com/CodeWithNirmalya)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Experience
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=2C9EE8&section=header" width="100%"/>
+
+## 💼 Experience
+
+<br>
 
 **AI Intern — Green Skills with AI Program**
 *Edunet Foundation (Shell & AICTE Collaboration)* · Jul – Aug 2025
-Built the wildfire detection pipeline above; ran comparative analysis across 5 ML algorithms.
+Built the wildfire detection pipeline above; ran comparative analysis across 5 ML algorithms with full metrics evaluation.
 
 **AI Intern — TechSaksham Program**
 *Microsoft & SAP (AICTE Partnership)* · Jan – Feb 2025
@@ -93,18 +187,24 @@ Built the multi-disease prediction app above; tuned SVM, Decision Tree, and Rand
 
 <br>
 
-## Certifications
-
-- Data Analytics with Python — NPTEL
-- AI Fundamentals: Getting Started with Artificial Intelligence — IBM
-- Retrieval Augmented Generation with LangChain — IBM
-- Cloud Computing: Journey to Cloud — IBM
-- Prompt Engineering — Simplilearn
-
-<br>
+## 📜 Certifications
 
 <div align="center">
 
-**Open to Data Science and ML Engineering opportunities.**
+`Data Analytics with Python — NPTEL`
+`AI Fundamentals: Getting Started with AI — IBM`
+`RAG with LangChain — IBM`
+`Cloud Computing: Journey to Cloud — IBM`
+`Prompt Engineering — Simplilearn`
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+**Open to Data Science and ML Engineering opportunities — let's connect.**
 
 </div>
