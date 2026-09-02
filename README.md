@@ -2,7 +2,7 @@
 
 # Hey, I'm Nirmalya Raja 👋
 
-### 🤖 ML Engineer in Progress | Python Backend Enthusiast |
+### 🤖 ML Engineer in Progress | Python Backend Enthusiast
 
 <p>
 I'm a Computer Applications student who loves turning messy, real-world data into something meaningful.<br>
@@ -24,6 +24,7 @@ I build things that actually solve problems.
 - 🔭 Building end-to-end ML pipelines on real-world datasets
 - 🌱 Currently learning **FastAPI** + **Advanced Python** + **LangChain / RAG**
 - 💡 Exploring **GenAI application development** with LLMs
+- 🎓 7th Semester, BCA @ Swami Vivekananda University — SGPA 9.15/10
 - 🎯 Goal: Land a Python Backend / ML Engineer role by 2026
 - ⚡ Fun fact: Built a wildfire detector with **97.8% accuracy** using 500K+ satellite records 🔥🛰️
 
@@ -45,12 +46,12 @@ I build things that actually solve problems.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Backend & Web**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -61,13 +62,12 @@ I build things that actually solve problems.
 ![VS Code](https://img.shields.io/badge/VSCode-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
-## 🏆 Internships
+## 🏆 Experience
 
-| Program | Organization | Period |
+| Role | Organization | Period |
 |---|---|---|
 | 🤖 AI Intern — Green Skills with AI | Edunet Foundation (Shell & AICTE) | Jul – Aug 2025 |
 | 🧠 AI Intern — TechSaksham Program | Microsoft & SAP (AICTE Partnership) | Jan – Feb 2025 |
@@ -77,18 +77,22 @@ I build things that actually solve problems.
 ## 📌 Featured Projects
 
 ### 🔥 [Wildfire Detection System](https://github.com/CodeWithNirmalya)
-> Random Forest model achieving **97.8% accuracy** on 500K+ MODIS satellite records
-> `Python` `Scikit-learn` `Pandas` `SMOTE` `Feature Engineering`
+> Random Forest model achieving **97.8% accuracy** on 500K+ MODIS satellite records (2021–2023). Includes full EDA, IQR-based outlier handling, and SMOTE balancing for an 85:15 class imbalance.
+> `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` `SMOTE`
 
-### 🏥 [Multi-Disease Prediction App](https://github.com/CodeWithNirmalya)
-> Streamlit web app predicting Diabetes, Parkinson's & Heart Disease with **85%+ accuracy**
-> `Python` `Streamlit` `SVM` `Random Forest` `Scikit-learn`
+### 🏥 [Multi-Disease Prediction Web App](https://github.com/CodeWithNirmalya)
+> Streamlit app predicting Diabetes, Parkinson's & Heart Disease with **85%+ accuracy**, real-time inference, and a pickle-based deployment pipeline.
+> `Python` `Streamlit` `Scikit-learn` `NumPy` `Pandas`
 
-### 🏧 [terminal-bank](https://github.com/CodeWithNirmalya)
-> CLI-based ATM simulation demonstrating core OOP concepts
-> `Python` `OOP` `File Handling` `Error Handling`
+### ✈️ [Dynamic Travel Website](https://github.com/CodeWithNirmalya)
+> Fully responsive travel site with search, dynamic navigation, and destination pages — built with vanilla JS, CSS animations, and mobile-first design.
+> `JavaScript` `HTML5` `CSS3`
 
----
+### 💼 [Professional Portfolio Website](https://github.com/CodeWithNirmalya)
+> Personal portfolio with smooth scrolling, interactive hover effects, and a responsive grid layout.
+> `HTML5` `CSS3` `JavaScript`
+
+
 
 ## 📊 GitHub Stats
 
@@ -104,13 +108,16 @@ I build things that actually solve problems.
 
 ---
 
+
 ## 📜 Certifications
 
-- 🎓 IBM AI Fundamentals — Artificial Intelligence
+- 📊 Data Analytics with Python — NPTEL (Jan–Apr 2026)
+- 🎓 AI Fundamentals: Getting Started with Artificial Intelligence — IBM
 - 🔗 Retrieval Augmented Generation with LangChain — IBM
-- ☁️ Cloud Computing: Journey to Cloud — IBM
+- ☁️ Cloud Computing: Journey to Cloud — IBM (2025)
 - 🐍 Python for Beginners — Simplilearn
 - 💬 Prompt Engineering — Simplilearn
+- 📈 Excel — Coursera
 
 ---
 
