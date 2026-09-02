@@ -24,7 +24,6 @@ I build things that actually solve problems.
 - 🔭 Building end-to-end ML pipelines on real-world datasets
 - 🌱 Currently learning **FastAPI** + **Advanced Python** + **LangChain / RAG**
 - 💡 Exploring **GenAI application development** with LLMs
-- 🎓 7th Semester, BCA @ Swami Vivekananda University — SGPA 9.15/10
 - 🎯 Goal: Land a Python Backend / ML Engineer role by 2026
 - ⚡ Fun fact: Built a wildfire detector with **97.8% accuracy** using 500K+ satellite records 🔥🛰️
 
